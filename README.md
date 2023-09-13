@@ -25,4 +25,6 @@
 - **git add index.html** -This adds your files to the staging area.
 - **git commit -m "Commit Message" - Commit command helps you take a snapshot of what you do at the moment of time**
 - **git push origin main**-This command pushes the changes to the repository
+- if the push not succesful you have to fetch first to that use the command
+- **git pull --rebase origin main**
   
